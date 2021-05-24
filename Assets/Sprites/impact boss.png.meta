@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 0ec51e36948360a46be0e184b1850951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3376152723831874468
+    second: impact boss_0
+  - first:
+      213: 7871888117856443761
+    second: impact boss_1
+  - first:
+      213: 2033073880011925921
+    second: impact boss_2
+  - first:
+      213: -5865705742840799521
+    second: impact boss_3
+  - first:
+      213: -7828719613723450332
+    second: impact boss_4
+  - first:
+      213: 7203157700740336406
+    second: impact boss_5
+  - first:
+      213: 1864063099982969093
+    second: impact boss_6
+  - first:
+      213: -5512411684572914074
+    second: impact boss_7
+  - first:
+      213: 6157811776934697093
+    second: impact boss_8
+  - first:
+      213: -2368057886849482218
+    second: impact boss_9
+  - first:
+      213: -5090973373650267317
+    second: impact boss_10
+  - first:
+      213: 8952464975349720668
+    second: impact boss_11
+  - first:
+      213: -7534170600145156513
+    second: impact boss_12
+  - first:
+      213: -8741107225275897137
+    second: impact boss_13
+  - first:
+      213: 7798786836986718670
+    second: impact boss_14
+  - first:
+      213: -3034956994529243637
+    second: impact boss_15
+  - first:
+      213: -2235338508743921168
+    second: impact boss_16
+  - first:
+      213: 664407906654022679
+    second: impact boss_17
+  - first:
+      213: 8503541978804945795
+    second: impact boss_18
+  - first:
+      213: 3496444217410598470
+    second: impact boss_19
+  - first:
+      213: -2045771346978448315
+    second: impact boss_20
+  - first:
+      213: 4856455839921840921
+    second: impact boss_21
+  - first:
+      213: 5201958393561050313
+    second: impact boss_22
+  - first:
+      213: -4749063796894222997
+    second: impact boss_23
+  - first:
+      213: -5043287539020374820
+    second: impact boss_24
+  - first:
+      213: 2454393183920978210
+    second: impact boss_25
+  - first:
+      213: 3512582152204335991
+    second: impact boss_26
+  - first:
+      213: -552930189398260491
+    second: impact boss_27
+  - first:
+      213: 7117246925325157629
+    second: impact boss_28
+  - first:
+      213: -5315298760936783434
+    second: impact boss_29
+  - first:
+      213: -949871873474041060
+    second: impact boss_30
+  - first:
+      213: 7696741512321092979
+    second: impact boss_31
+  - first:
+      213: -2712769641059013699
+    second: impact boss_32
+  - first:
+      213: -6748989757222491087
+    second: impact boss_33
+  - first:
+      213: 7511400193780977613
+    second: impact boss_34
+  - first:
+      213: 2962403779329969641
+    second: impact boss_35
+  - first:
+      213: -8093649289999235461
+    second: impact boss_36
+  - first:
+      213: 8773114871622595500
+    second: impact boss_37
+  - first:
+      213: -6422476150988074056
+    second: impact boss_38
+  - first:
+      213: 3808488416936677297
+    second: impact boss_39
+  - first:
+      213: 8728233142496971153
+    second: impact boss_40
+  - first:
+      213: -4554930493528579777
+    second: impact boss_41
+  - first:
+      213: -9217907460915056076
+    second: impact boss_42
+  - first:
+      213: -4397012065183730446
+    second: impact boss_43
+  - first:
+      213: 6750799615337045718
+    second: impact boss_44
+  - first:
+      213: -6232156282734839461
+    second: impact boss_45
+  - first:
+      213: 4137661857910944399
+    second: impact boss_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: impact boss_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 723
+        width: 634
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d937049809e3d60800000000000000
+      internalID: 7871888117856443761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact boss_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 351
+        width: 699
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a96c341cede63c10800000000000000
+      internalID: 2033073880011925921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact boss_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 714
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca64dd7a4951b680800000000000000
+      internalID: -8741107225275897137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

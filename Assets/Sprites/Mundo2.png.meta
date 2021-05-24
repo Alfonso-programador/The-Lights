@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 47ec93b12e91b5b4ca4e383307558826
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4905510995409600060
+    second: Mundo2_0
+  - first:
+      213: 1625955683227682397
+    second: Mundo2_1
+  - first:
+      213: 5414302295199610083
+    second: Mundo2_2
+  - first:
+      213: -5937645524444566636
+    second: Mundo2_3
+  - first:
+      213: -3753690103922311369
+    second: Mundo2_4
+  - first:
+      213: -6857448329631592620
+    second: Mundo2_5
+  - first:
+      213: 7701275002355694617
+    second: Mundo2_6
+  - first:
+      213: 5477752502641501555
+    second: Mundo2_7
+  - first:
+      213: 6312034805942092854
+    second: Mundo2_8
+  - first:
+      213: 9116395258039191583
+    second: Mundo2_9
+  - first:
+      213: 2519323532749426340
+    second: Mundo2_10
+  - first:
+      213: 9147522438026844685
+    second: Mundo2_11
+  - first:
+      213: -1559354589850764087
+    second: Mundo2_12
+  - first:
+      213: -8970407114402699559
+    second: Mundo2_13
+  - first:
+      213: -8310636916931430919
+    second: Mundo2_14
+  - first:
+      213: -304157359021124422
+    second: Mundo2_15
+  - first:
+      213: -5010452638965764831
+    second: Mundo2_16
+  - first:
+      213: 6305966280856061529
+    second: Mundo2_17
+  - first:
+      213: -6616955682958749612
+    second: Mundo2_18
+  - first:
+      213: 8964396367027154548
+    second: Mundo2_19
+  - first:
+      213: 4853781563381477891
+    second: Mundo2_20
+  - first:
+      213: 7243032517333020965
+    second: Mundo2_21
+  - first:
+      213: -6208696900632062029
+    second: Mundo2_22
+  - first:
+      213: 3206459000430943910
+    second: Mundo2_23
+  - first:
+      213: 1635079319511914790
+    second: Mundo2_24
+  - first:
+      213: 7538366202685707385
+    second: Mundo2_25
+  - first:
+      213: -4905272048854177703
+    second: Mundo2_26
+  - first:
+      213: 7251038415962611831
+    second: nivel9-14
+  - first:
+      213: 3791036003741137677
+    second: Mundo2_28
+  - first:
+      213: -9213334550437278229
+    second: Mundo2_29
+  - first:
+      213: 5133493577117568009
+    second: Mundo2_30
+  - first:
+      213: 5853831328436538692
+    second: Mundo2_31
+  - first:
+      213: 6790597564808334996
+    second: Mundo2_32
+  - first:
+      213: -3503052940010649912
+    second: Mundo2_33
+  - first:
+      213: -3196639423249020691
+    second: Mundo2_34
+  - first:
+      213: 3119584359002494498
+    second: Mundo2_35
+  - first:
+      213: -6899966575334540228
+    second: Mundo2_36
+  - first:
+      213: -3205747157119501312
+    second: Mundo2_37
+  - first:
+      213: -1917162434892036180
+    second: Mundo2_38
+  - first:
+      213: 2994045735835268530
+    second: nivel9-5
+  - first:
+      213: -98220278203180593
+    second: nivel9-12
+  - first:
+      213: 3043553155661482407
+    second: nivel9-17
+  - first:
+      213: -4634791202030038399
+    second: Mundo2_42
+  - first:
+      213: 3139724252014184430
+    second: nivel9-3
+  - first:
+      213: 4444160588453344699
+    second: nivel9-16
+  - first:
+      213: 373085316814778211
+    second: nivel9-20
+  - first:
+      213: 482947453850396421
+    second: Mundo2_46
+  - first:
+      213: -1639956217831250435
+    second: Mundo2_47
+  - first:
+      213: -3520836178577558819
+    second: Mundo2_48
+  - first:
+      213: -4571013953941038676
+    second: Mundo2_49
+  - first:
+      213: -5814587964270579764
+    second: Mundo2_50
+  - first:
+      213: -4279002660297478715
+    second: Mundo2_51
+  - first:
+      213: 7594356747216965652
+    second: Nivel9-1
+  - first:
+      213: -658957138205498912
+    second: nivel9-2
+  - first:
+      213: 2358993028355556490
+    second: nivel9-4
+  - first:
+      213: -3730121153653620950
+    second: nivel9-11
+  - first:
+      213: -8923802538884126084
+    second: nivel9-15
+  - first:
+      213: -5063675924713629571
+    second: nivel9-19
+  - first:
+      213: -5192296205471195061
+    second: nivel9-21
+  - first:
+      213: 8689787859039720452
+    second: Mundo2_59
+  - first:
+      213: 4537955912891879067
+    second: Mundo2_60
+  - first:
+      213: 1306850653035766433
+    second: Mundo2_61
+  - first:
+      213: 2452594213509966331
+    second: Mundo2_62
+  - first:
+      213: 4040134955088354109
+    second: Mundo2_63
+  - first:
+      213: -643766887798607262
+    second: Mundo2_64
+  - first:
+      213: 7248761049129690090
+    second: Nivel9
+  - first:
+      213: 2997955133299024240
+    second: nivel9-10
+  - first:
+      213: -2224258754972685614
+    second: nivel9-18
+  - first:
+      213: 3842958819642482497
+    second: Mundo2_68
+  - first:
+      213: 6528691569759653519
+    second: Mundo2_69
+  - first:
+      213: 2939551902918268263
+    second: Mundo2_70
+  - first:
+      213: 67510198093666078
+    second: Mundo2_71
+  - first:
+      213: 4897114250147526730
+    second: Mundo2_72
+  - first:
+      213: -7160990656264961010
+    second: Mundo2_73
+  - first:
+      213: -5132653857428335869
+    second: Mundo2_74
+  - first:
+      213: -1526155043361733763
+    second: Mundo2_75
+  - first:
+      213: -4809392399824092996
+    second: Mundo2_76
+  - first:
+      213: -995169569087725359
+    second: Mundo2_77
+  - first:
+      213: 6447309975399295073
+    second: Mundo2_78
+  - first:
+      213: -5024293852326307963
+    second: Mundo2_79
+  - first:
+      213: 5857780941603420143
+    second: Mundo2_80
+  - first:
+      213: -6642245609199436515
+    second: Mundo2_81
+  - first:
+      213: -776391047971284860
+    second: Mundo2_82
+  - first:
+      213: -7289982481464392222
+    second: Mundo2_83
+  - first:
+      213: -806502359659424535
+    second: Mundo2_84
+  - first:
+      213: -9171688858807558270
+    second: Mundo2_85
+  - first:
+      213: -7105417195410891438
+    second: Mundo2_86
+  - first:
+      213: 3056865671134349820
+    second: Mundo2_87
+  - first:
+      213: -3667757770379895547
+    second: Mundo2_88
+  - first:
+      213: -8898329490402466382
+    second: Mundo2_89
+  - first:
+      213: 8865263921425012507
+    second: Mundo2_90
+  - first:
+      213: -5595712747227148360
+    second: Mundo2_91
+  - first:
+      213: 4677985610189353933
+    second: Mundo2_92
+  - first:
+      213: -3113896324261873643
+    second: Mundo2_93
+  - first:
+      213: -8711742738929690180
+    second: nivel9-13
+  - first:
+      213: 4903614158686735411
+    second: nivel9-6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mundo2_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 516
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c186dc7dbf1cebb0800000000000000
+      internalID: -4905510995409600060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 517
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564057441e809610800000000000000
+      internalID: 1625955683227682397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 516
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e474f35047732b40800000000000000
+      internalID: 5414302295199610083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 424
+        width: 65
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b2b41cade399da0800000000000000
+      internalID: -5937645524444566636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 410
+        width: 68
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fbfc60db638ebc0800000000000000
+      internalID: -3753690103922311369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 424
+        width: 67
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f86b6931375d0a0800000000000000
+      internalID: -6857448329631592620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 572
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cb101cfcc60ea60800000000000000
+      internalID: 7701275002355694617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 571
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3752477f0e2e40c40800000000000000
+      internalID: 5477752502641501555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 559
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6348412a63ad89750800000000000000
+      internalID: 6312034805942092854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 564
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f184b7bbf21f38e70800000000000000
+      internalID: 9116395258039191583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_10
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 564
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aecfc3b76f66f220800000000000000
+      internalID: 2519323532749426340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 565
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a5185113782fe70800000000000000
+      internalID: 9147522438026844685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 564
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccf119234f0c5ae0800000000000000
+      internalID: -1559354589850764087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_13
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 513
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6e367b146b28380800000000000000
+      internalID: -8970407114402699559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_14
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 470
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5fd0571cfaaac80800000000000000
+      internalID: -8310636916931430919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 487
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab499b35e7a67cbf0800000000000000
+      internalID: -304157359021124422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 504
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12de6821fdb477ab0800000000000000
+      internalID: -5010452638965764831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 467
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95644080cea438750800000000000000
+      internalID: 6305966280856061529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_18
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 467
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450ddbe4dd9db24a0800000000000000
+      internalID: -6616955682958749612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 488
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ea47a100fe76c70800000000000000
+      internalID: 8964396367027154548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 488
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30271be8d981c5340800000000000000
+      internalID: 4853781563381477891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 461
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521fc3403bb648460800000000000000
+      internalID: 7243032517333020965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 461
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d1cf501746d9a0800000000000000
+      internalID: -6208696900632062029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 461
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae5a8be871af7c20800000000000000
+      internalID: 3206459000430943910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 461
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62958136af7f0b610800000000000000
+      internalID: 1635079319511914790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 461
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97454e11f18ad9860800000000000000
+      internalID: 7538366202685707385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 461
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e4619f09fcebb0800000000000000
+      internalID: -4905272048854177703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 420
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770a92c850dd0a460800000000000000
+      internalID: 7251038415962611831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_28
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 292
+        width: 136
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bf4bdd8277c9430800000000000000
+      internalID: 3791036003741137677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_29
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 290
+        width: 136
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4a5c6a09a32080800000000000000
+      internalID: -9213334550437278229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 391
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c87d0c535dd3740800000000000000
+      internalID: 5133493577117568009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 391
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d438a049cfc3150800000000000000
+      internalID: 5853831328436538692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 391
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e880fc18c0d3e50800000000000000
+      internalID: 6790597564808334996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 391
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6074939e7a26fc0800000000000000
+      internalID: -3503052940010649912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 391
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88b3e816143a3d0800000000000000
+      internalID: -3196639423249020691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 367
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226553d327dfa4b20800000000000000
+      internalID: 3119584359002494498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 367
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cbd1315f46e30a0800000000000000
+      internalID: -6899966575334540228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 367
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c7c2402f5e283d0800000000000000
+      internalID: -3205747157119501312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 366
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7898b4ceed465e0800000000000000
+      internalID: -1917162434892036180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 363
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5fbbdcbbcfc8920800000000000000
+      internalID: 2994045735835268530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 364
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc995f76d2d03aef0800000000000000
+      internalID: -98220278203180593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-17
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 391
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9c83a387fdc3a20800000000000000
+      internalID: 3043553155661482407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_42
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 301
+        width: 108
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182d4ea35f9edafb0800000000000000
+      internalID: -4634791202030038399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 363
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee70cfd729a829b20800000000000000
+      internalID: 3139724252014184430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57d8f4284dcad30800000000000000
+      internalID: 4444160588453344699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-20
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 363
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fa8a37e177d2500800000000000000
+      internalID: 373085316814778211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 330
+        width: 101
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507aee78626c3b600800000000000000
+      internalID: 482947453850396421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_47
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 334
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5a9fc3284bd39e0800000000000000
+      internalID: -1639956217831250435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_48
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 339
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd27a87562a732fc0800000000000000
+      internalID: -3520836178577558819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 339
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca99df3f60f7090c0800000000000000
+      internalID: -4571013953941038676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 337
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfe362bd0f6e4fa0800000000000000
+      internalID: -5814587964270579764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 337
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd640860cded94c0800000000000000
+      internalID: -4279002660297478715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel9-1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 333
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41055779933946960800000000000000
+      internalID: 7594356747216965652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 333
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ad0f59f9ead6f0800000000000000
+      internalID: -658957138205498912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 333
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8481ca29a3dcb020800000000000000
+      internalID: 2358993028355556490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-11
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f3e43e292fb3cc0800000000000000
+      internalID: -3730121153653620950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-15
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 333
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a25180fd8482480800000000000000
+      internalID: -8923802538884126084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-19
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 333
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d781fb133953ab9b0800000000000000
+      internalID: -5063675924713629571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-21
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 333
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40e7407c1241f7b0800000000000000
+      internalID: -5192296205471195061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 308
+        width: 101
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404909f6404589870800000000000000
+      internalID: 8689787859039720452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_60
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 311
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ecd421cde0afe30800000000000000
+      internalID: 4537955912891879067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 310
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a22fa4bebdd22210800000000000000
+      internalID: 1306850653035766433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_62
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 308
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a07a517d590220800000000000000
+      internalID: 2452594213509966331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 308
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b1eaa0651711830800000000000000
+      internalID: 4040134955088354109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_64
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 307
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262fa962d61e017f0800000000000000
+      internalID: -643766887798607262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 302
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae32013c4c5c89460800000000000000
+      internalID: 7248761049129690090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 305
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e8d45f40ea9920800000000000000
+      internalID: 2997955133299024240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-18
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 305
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daec4d6278d121e0800000000000000
+      internalID: -2224258754972685614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 290
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f9e338faee45530800000000000000
+      internalID: 3842958819642482497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_69
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 291
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e8c9764629a9a50800000000000000
+      internalID: 6528691569759653519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 82
+        width: 134
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765544c91e26bc820800000000000000
+      internalID: 2939551902918268263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_71
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 250
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17d610ea28dfe000800000000000000
+      internalID: 67510198093666078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_72
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 250
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48fb88e67b06f340800000000000000
+      internalID: 4897114250147526730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 250
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e048f6d40fc0f9c90800000000000000
+      internalID: -7160990656264961010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_74
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 170
+        width: 130
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30312f8b28625c8b0800000000000000
+      internalID: -5132653857428335869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_75
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 151
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c040f21202dae0800000000000000
+      internalID: -1526155043361733763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_76
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 179
+        width: 111
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08507f71b914db0800000000000000
+      internalID: -4809392399824092996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 229
+        width: 47
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d06f3fac827032f0800000000000000
+      internalID: -995169569087725359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_78
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 117
+        width: 59
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168e1886342797950800000000000000
+      internalID: 6447309975399295073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_79
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 209
+        width: 47
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58759e47c5f164ab0800000000000000
+      internalID: -5024293852326307963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 190
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe733540bb40b4150800000000000000
+      internalID: 5857780941603420143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_81
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 178
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df4c08fc002d3a0800000000000000
+      internalID: -6642245609199436515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_82
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 178
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d0e29474b935f0800000000000000
+      internalID: -776391047971284860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e58e7d9e87c4da90800000000000000
+      internalID: -7289982481464392222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_84
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 152
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e45cfd706abec4f0800000000000000
+      internalID: -806502359659424535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f1e5c939d97b080800000000000000
+      internalID: -9171688858807558270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_86
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 6
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd496f4bc746d90800000000000000
+      internalID: -7105417195410891438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_87
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 138
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf98c06c12b2c6a20800000000000000
+      internalID: 3056865671134349820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_88
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 138
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dd35e8db1891dc0800000000000000
+      internalID: -3667757770379895547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 125
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5ad2e4978c28480800000000000000
+      internalID: -8898329490402466382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_90
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 125
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17df9cf09eb70b70800000000000000
+      internalID: 8865263921425012507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_91
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 28
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf866c57e80852b0800000000000000
+      internalID: -5595712747227148360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_92
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 24
+        width: 189
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3b9bf902b8be040800000000000000
+      internalID: 4677985610189353933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mundo2_93
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 41
+        width: 136
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f9fc8ac739c4d0800000000000000
+      internalID: -3113896324261873643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-13
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 392
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9d18fb22ca91780800000000000000
+      internalID: -8711742738929690180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel9-6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 392
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c491cc8132d0440800000000000000
+      internalID: 4903614158686735411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

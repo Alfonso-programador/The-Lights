@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chuzos
+  - boss
+  - enemy
+  - ground
+  - chuzos1
+  - chuzos2
+  - chuzos3
+  - chuzofinal
+  - Trampolin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Post processing
+  - ground
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3758792239
+    locked: 0
+  - name: Fondo_pasto
+    uniqueID: 3867452273
+    locked: 0
+  - name: Chuzos
+    uniqueID: 2654715713
+    locked: 0
+  - name: Fondo_Desaparecer
+    uniqueID: 1590223985
+    locked: 0
+  - name: Foreground
+    uniqueID: 4035602717
+    locked: 0
+  - name: no_touch
+    uniqueID: 3222402471
+    locked: 0
+  - name: UI
+    uniqueID: 3933763497
+    locked: 0
+  - name: Ultimo
+    uniqueID: 3110245211
+    locked: 0

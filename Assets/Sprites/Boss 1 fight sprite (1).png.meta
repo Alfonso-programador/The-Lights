@@ -1,0 +1,2267 @@
+fileFormatVersion: 2
+guid: b23e100d44e86944e984595cd891db57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2405597821054070578
+    second: Boss 1 fight sprite (1)_0
+  - first:
+      213: -2830400006782898182
+    second: Boss 1 fight sprite (1)_1
+  - first:
+      213: -6327820202327087002
+    second: Boss 1 fight sprite (1)_2
+  - first:
+      213: 2428004076794469530
+    second: Boss 1 fight sprite (1)_3
+  - first:
+      213: -6716342673231775107
+    second: Boss 1 fight sprite (1)_4
+  - first:
+      213: 7153520843332262302
+    second: Boss 1 fight sprite (1)_5
+  - first:
+      213: 3144573487976946257
+    second: Boss 1 fight sprite (1)_6
+  - first:
+      213: 6724069919400529207
+    second: Boss 1 fight sprite (1)_7
+  - first:
+      213: -3468683668438090035
+    second: Boss 1 fight sprite (1)_8
+  - first:
+      213: -7212349414241486428
+    second: Boss 1 fight sprite (1)_9
+  - first:
+      213: 7899160613217942741
+    second: Boss 1 fight sprite (1)_10
+  - first:
+      213: 3923064878564921956
+    second: Boss 1 fight sprite (1)_11
+  - first:
+      213: 4197802484770800841
+    second: Boss 1 fight sprite (1)_12
+  - first:
+      213: 2406772295195519242
+    second: Boss 1 fight sprite (1)_13
+  - first:
+      213: -8651766055188481415
+    second: Boss 1 fight sprite (1)_14
+  - first:
+      213: -653357632419182950
+    second: Boss 1 fight sprite (1)_15
+  - first:
+      213: -5537757231912965265
+    second: Boss 1 fight sprite (1)_16
+  - first:
+      213: 993945327348542513
+    second: Boss 1 fight sprite (1)_17
+  - first:
+      213: -484333510991287540
+    second: Boss 1 fight sprite (1)_18
+  - first:
+      213: 6416535154759536743
+    second: Boss 1 fight sprite (1)_19
+  - first:
+      213: 110900445667351430
+    second: Boss 1 fight sprite (1)_20
+  - first:
+      213: -312472540873659345
+    second: Boss 1 fight sprite (1)_21
+  - first:
+      213: -5086190695185728137
+    second: Boss 1 fight sprite (1)_22
+  - first:
+      213: 4940200777476629170
+    second: Boss 1 fight sprite (1)_23
+  - first:
+      213: 6986479358281796471
+    second: Boss 1 fight sprite (1)_24
+  - first:
+      213: -7686234803448009582
+    second: Boss 1 fight sprite (1)_25
+  - first:
+      213: -5087805750890663431
+    second: Boss 1 fight sprite (1)_26
+  - first:
+      213: 3612409295605096856
+    second: Boss 1 fight sprite (1)_27
+  - first:
+      213: 2379865138998542761
+    second: Boss 1 fight sprite (1)_28
+  - first:
+      213: 524070123414986349
+    second: Boss 1 fight sprite (1)_29
+  - first:
+      213: 4171413476640149788
+    second: Boss 1 fight sprite (1)_30
+  - first:
+      213: -3660281261328854781
+    second: Boss 1 fight sprite (1)_31
+  - first:
+      213: -4604730101806476017
+    second: Boss 1 fight sprite (1)_32
+  - first:
+      213: -5957190826403711217
+    second: Boss 1 fight sprite (1)_33
+  - first:
+      213: 3949734468745457292
+    second: Boss 1 fight sprite (1)_34
+  - first:
+      213: -1271841312035881737
+    second: Boss 1 fight sprite (1)_35
+  - first:
+      213: 1867815750877424897
+    second: Boss 1 fight sprite (1)_36
+  - first:
+      213: 6371956639921061246
+    second: Boss 1 fight sprite (1)_37
+  - first:
+      213: 4436240164203291938
+    second: Boss 1 fight sprite (1)_38
+  - first:
+      213: -8286188155288640032
+    second: Boss 1 fight sprite (1)_39
+  - first:
+      213: -3543490957384642992
+    second: Boss 1 fight sprite (1)_40
+  - first:
+      213: -1446234121217370371
+    second: Boss 1 fight sprite (1)_41
+  - first:
+      213: 8217528953898050669
+    second: Boss 1 fight sprite (1)_42
+  - first:
+      213: 304514709285819732
+    second: Boss 1 fight sprite (1)_43
+  - first:
+      213: 1399516406079252530
+    second: Boss 1 fight sprite (1)_44
+  - first:
+      213: 455387363092755054
+    second: Boss 1 fight sprite (1)_45
+  - first:
+      213: -6942933490366321657
+    second: Boss 1 fight sprite (1)_46
+  - first:
+      213: -4917492782322681626
+    second: Boss 1 fight sprite (1)_47
+  - first:
+      213: 8421843930907635541
+    second: Boss 1 fight sprite (1)_48
+  - first:
+      213: -7109108931048350562
+    second: Boss 1 fight sprite (1)_49
+  - first:
+      213: 7013026123574094630
+    second: Boss 1 fight sprite (1)_50
+  - first:
+      213: -348103287561440432
+    second: Boss 1 fight sprite (1)_51
+  - first:
+      213: 8462240474840481513
+    second: Boss 1 fight sprite (1)_52
+  - first:
+      213: 2361156845030888834
+    second: Boss 1 fight sprite (1)_53
+  - first:
+      213: -4961005212242529987
+    second: Boss 1 fight sprite (1)_54
+  - first:
+      213: 5954516696819332077
+    second: Boss 1 fight sprite (1)_55
+  - first:
+      213: -6112939350842807974
+    second: Boss 1 fight sprite (1)_56
+  - first:
+      213: -8242589644071853276
+    second: Boss 1 fight sprite (1)_57
+  - first:
+      213: 6883748113924420523
+    second: Boss 1 fight sprite (1)_58
+  - first:
+      213: 9018785912770926062
+    second: Boss 1 fight sprite (1)_59
+  - first:
+      213: 1000953110684716599
+    second: Boss 1 fight sprite (1)_60
+  - first:
+      213: -6690571307116679654
+    second: Boss 1 fight sprite (1)_61
+  - first:
+      213: -5916504011507706515
+    second: Boss 1 fight sprite (1)_62
+  - first:
+      213: 5255561479631670002
+    second: Boss 1 fight sprite (1)_63
+  - first:
+      213: 5833766310892869930
+    second: Boss 1 fight sprite (1)_64
+  - first:
+      213: -7411591650264651466
+    second: Boss 1 fight sprite (1)_65
+  - first:
+      213: -8799083829189908419
+    second: Boss 1 fight sprite (1)_66
+  - first:
+      213: 7640373624775842707
+    second: Boss 1 fight sprite (1)_67
+  - first:
+      213: 7766087954599523071
+    second: Boss 1 fight sprite (1)_68
+  - first:
+      213: 4659349962388687687
+    second: Boss 1 fight sprite (1)_69
+  - first:
+      213: -3246537746577964645
+    second: Boss 1 fight sprite (1)_70
+  - first:
+      213: -6817162436123924513
+    second: Boss 1 fight sprite (1)_71
+  - first:
+      213: 4374035637426357377
+    second: Boss 1 fight sprite (1)_72
+  - first:
+      213: 7077988431571308869
+    second: Boss 1 fight sprite (1)_73
+  - first:
+      213: -6150262111917311526
+    second: Boss 1 fight sprite (1)_74
+  - first:
+      213: 4447620848219235270
+    second: Boss 1 fight sprite (1)_75
+  - first:
+      213: -1484737556870079264
+    second: Boss 1 fight sprite (1)_76
+  - first:
+      213: 4543451137456128572
+    second: Boss 1 fight sprite (1)_77
+  - first:
+      213: 5493879583721152327
+    second: Boss 1 fight sprite (1)_78
+  - first:
+      213: 1870283952969395992
+    second: Boss 1 fight sprite (1)_79
+  - first:
+      213: 165036259833242613
+    second: Boss 1 fight sprite (1)_80
+  - first:
+      213: -3937675017040372201
+    second: Boss 1 fight sprite (1)_81
+  - first:
+      213: 7279608586517500908
+    second: Boss 1 fight sprite (1)_82
+  - first:
+      213: 5022796997450723403
+    second: Boss 1 fight sprite (1)_83
+  - first:
+      213: -6085055650952182936
+    second: Boss 1 fight sprite (1)_84
+  - first:
+      213: -1821152322786992371
+    second: Boss 1 fight sprite (1)_85
+  - first:
+      213: 5161966107258408956
+    second: Boss 1 fight sprite (1)_86
+  - first:
+      213: 6606540146109650885
+    second: Boss 1 fight sprite (1)_87
+  - first:
+      213: -7546838140111952926
+    second: Boss 1 fight sprite (1)_88
+  - first:
+      213: -6701114163638336923
+    second: Boss 1 fight sprite (1)_89
+  - first:
+      213: -1812455620345758452
+    second: Boss 1 fight sprite (1)_90
+  - first:
+      213: -4162157057756478249
+    second: Boss 1 fight sprite (1)_91
+  - first:
+      213: -2957604775979286730
+    second: Boss 1 fight sprite (1)_92
+  - first:
+      213: 6587935097734290120
+    second: Boss 1 fight sprite (1)_93
+  - first:
+      213: -3885065029650337490
+    second: Boss 1 fight sprite (1)_94
+  - first:
+      213: 6815322136303356416
+    second: Boss 1 fight sprite (1)_95
+  - first:
+      213: 3661951840635720381
+    second: Boss 1 fight sprite (1)_96
+  - first:
+      213: -2461856586164398036
+    second: Boss 1 fight sprite (1)_97
+  - first:
+      213: -1809049573068915575
+    second: Boss 1 fight sprite (1)_98
+  - first:
+      213: -2804038686401288328
+    second: Boss 1 fight sprite (1)_99
+  - first:
+      213: -7056996157855094611
+    second: Boss 1 fight sprite (1)_100
+  - first:
+      213: 2677139995517286342
+    second: Boss 1 fight sprite (1)_101
+  - first:
+      213: 4479890006425415554
+    second: Boss 1 fight sprite (1)_102
+  - first:
+      213: -6343082481258812764
+    second: Boss 1 fight sprite (1)_103
+  - first:
+      213: 2182496139634811029
+    second: Boss 1 fight sprite (1)_104
+  - first:
+      213: -4591310539729997091
+    second: Boss 1 fight sprite (1)_105
+  - first:
+      213: 7617816513136080050
+    second: Boss 1 fight sprite (1)_106
+  - first:
+      213: -2554583701561228134
+    second: Boss 1 fight sprite (1)_107
+  - first:
+      213: 29725530294116553
+    second: Boss 1 fight sprite (1)_108
+  - first:
+      213: -5802097827671823660
+    second: Boss 1 fight sprite (1)_109
+  - first:
+      213: 4369336608065448683
+    second: Boss 1 fight sprite (1)_110
+  - first:
+      213: 4263254567129661175
+    second: Boss 1 fight sprite (1)_111
+  - first:
+      213: 7230295629164129776
+    second: Boss 1 fight sprite (1)_112
+  - first:
+      213: 642811080584765378
+    second: Boss 1 fight sprite (1)_113
+  - first:
+      213: 4519017374082827857
+    second: Boss 1 fight sprite (1)_114
+  - first:
+      213: -4524157942104128675
+    second: Boss 1 fight sprite (1)_115
+  - first:
+      213: -5041654773916204945
+    second: Boss 1 fight sprite (1)_116
+  - first:
+      213: -3065944270367975857
+    second: Boss 1 fight sprite (1)_117
+  - first:
+      213: 5713000575100256184
+    second: Boss 1 fight sprite (1)_118
+  - first:
+      213: 4287205505700844789
+    second: Boss 1 fight sprite (1)_119
+  - first:
+      213: 3697686953890735097
+    second: Boss 1 fight sprite (1)_120
+  - first:
+      213: 3405792413552355143
+    second: Boss 1 fight sprite (1)_121
+  - first:
+      213: 2223332820842384691
+    second: Boss 1 fight sprite (1)_122
+  - first:
+      213: 1594929646626227791
+    second: Boss 1 fight sprite (1)_123
+  - first:
+      213: -7257065098310992571
+    second: Boss 1 fight sprite (1)_124
+  - first:
+      213: 4989529270718692476
+    second: Boss 1 fight sprite (1)_125
+  - first:
+      213: -1368444986073754327
+    second: Boss 1 fight sprite (1)_126
+  - first:
+      213: 6486691873960998990
+    second: Boss 1 fight sprite (1)_127
+  - first:
+      213: -8872040473481886628
+    second: Boss 1 fight sprite (1)_128
+  - first:
+      213: 1284389968970027607
+    second: Boss 1 fight sprite (1)_129
+  - first:
+      213: 4316101996779854577
+    second: Boss 1 fight sprite (1)_130
+  - first:
+      213: 3884747998801880778
+    second: Boss 1 fight sprite (1)_131
+  - first:
+      213: -5613313345738636889
+    second: Boss 1 fight sprite (1)_132
+  - first:
+      213: -7194207282011169255
+    second: Boss 1 fight sprite (1)_133
+  - first:
+      213: -1896226608301105238
+    second: Boss 1 fight sprite (1)_134
+  - first:
+      213: -158512561748033376
+    second: Boss 1 fight sprite (1)_135
+  - first:
+      213: 7736293936093051027
+    second: Boss 1 fight sprite (1)_136
+  - first:
+      213: -5631010823608337524
+    second: Boss 1 fight sprite (1)_137
+  - first:
+      213: 2496592248716892450
+    second: Boss 1 fight sprite (1)_138
+  - first:
+      213: -5811495738951010308
+    second: Boss 1 fight sprite (1)_139
+  - first:
+      213: -3479363199644658507
+    second: Boss 1 fight sprite (1)_140
+  - first:
+      213: 9133134263922804224
+    second: Boss 1 fight sprite (1)_141
+  - first:
+      213: -2074302197800547111
+    second: Boss 1 fight sprite (1)_142
+  - first:
+      213: -7792151559366170675
+    second: Boss 1 fight sprite (1)_143
+  - first:
+      213: -2029796063610964269
+    second: Boss 1 fight sprite (1)_144
+  - first:
+      213: -6513279786961643420
+    second: Boss 1 fight sprite (1)_145
+  - first:
+      213: -7781092030104706485
+    second: Boss 1 fight sprite (1)_146
+  - first:
+      213: 7042954263130472676
+    second: Boss 1 fight sprite (1)_147
+  - first:
+      213: 8193772234501115170
+    second: Boss 1 fight sprite (1)_148
+  - first:
+      213: 3543886519652709398
+    second: Boss 1 fight sprite (1)_149
+  - first:
+      213: -1114083536496164484
+    second: Boss 1 fight sprite (1)_150
+  - first:
+      213: -9051891906015950415
+    second: Boss 1 fight sprite (1)_151
+  - first:
+      213: -1987010052524889823
+    second: Boss 1 fight sprite (1)_152
+  - first:
+      213: 2644431361619032033
+    second: Boss 1 fight sprite (1)_153
+  - first:
+      213: 2225035849307355
+    second: Boss 1 fight sprite (1)_154
+  - first:
+      213: 1286918943100520503
+    second: Boss 1 fight sprite (1)_155
+  - first:
+      213: -5551226721688711033
+    second: Boss 1 fight sprite (1)_156
+  - first:
+      213: -2919106287352254476
+    second: Boss 1 fight sprite (1)_157
+  - first:
+      213: 2931815465620350579
+    second: Boss 1 fight sprite (1)_158
+  - first:
+      213: 7199925353254188699
+    second: Boss 1 fight sprite (1)_159
+  - first:
+      213: 7960019945765655504
+    second: Boss 1 fight sprite (1)_160
+  - first:
+      213: 3427082876276882975
+    second: Boss 1 fight sprite (1)_161
+  - first:
+      213: 5186524042585557202
+    second: Boss 1 fight sprite (1)_162
+  - first:
+      213: 4117388720243047691
+    second: Boss 1 fight sprite (1)_163
+  - first:
+      213: -8308709119549164978
+    second: Boss 1 fight sprite (1)_164
+  - first:
+      213: -8679389212952036548
+    second: Boss 1 fight sprite (1)_165
+  - first:
+      213: -4624582148548229588
+    second: Boss 1 fight sprite (1)_166
+  - first:
+      213: -5777680375523410057
+    second: Boss 1 fight sprite (1)_167
+  - first:
+      213: -7362118703500384231
+    second: Boss 1 fight sprite (1)_168
+  - first:
+      213: 6240323438055020823
+    second: Boss 1 fight sprite (1)_169
+  - first:
+      213: 5927136930716524443
+    second: Boss 1 fight sprite (1)_170
+  - first:
+      213: -8606139820060505389
+    second: Boss 1 fight sprite (1)_171
+  - first:
+      213: -4165648464940900164
+    second: Boss 1 fight sprite (1)_172
+  - first:
+      213: -6109017741346101274
+    second: Boss 1 fight sprite (1)_173
+  - first:
+      213: 3097604416106891328
+    second: Boss 1 fight sprite (1)_174
+  - first:
+      213: 3077249810833245193
+    second: Boss 1 fight sprite (1)_175
+  - first:
+      213: 3546397661868676487
+    second: Boss 1 fight sprite (1)_176
+  - first:
+      213: -607400908093157763
+    second: Boss 1 fight sprite (1)_177
+  - first:
+      213: -1732121549377436214
+    second: Boss 1 fight sprite (1)_178
+  - first:
+      213: 5333565926631249550
+    second: Boss 1 fight sprite (1)_179
+  - first:
+      213: 4991590235468289269
+    second: Boss 1 fight sprite (1)_180
+  - first:
+      213: -7177005192585901697
+    second: Boss 1 fight sprite (1)_181
+  - first:
+      213: -4150013001591447025
+    second: Boss 1 fight sprite (1)_182
+  - first:
+      213: -7470245640008977243
+    second: Boss 1 fight sprite (1)_183
+  - first:
+      213: -6003392246909778996
+    second: Boss 1 fight sprite (1)_184
+  - first:
+      213: 4851408913344315851
+    second: Boss 1 fight sprite (1)_185
+  - first:
+      213: 6202539980286873003
+    second: Boss 1 fight sprite (1)_186
+  - first:
+      213: -8070673446352382007
+    second: Boss 1 fight sprite (1)_187
+  - first:
+      213: -5948738432504488165
+    second: Boss 1 fight sprite (1)_188
+  - first:
+      213: -5012878752698429032
+    second: Boss 1 fight sprite (1)_189
+  - first:
+      213: -4757390599206814742
+    second: Boss 1 fight sprite (1)_190
+  - first:
+      213: -6417528321320524056
+    second: Boss 1 fight sprite (1)_191
+  - first:
+      213: 6913245683697561530
+    second: Boss 1 fight sprite (1)_192
+  - first:
+      213: -1930165709951692202
+    second: Boss 1 fight sprite (1)_193
+  - first:
+      213: 4821620755321051512
+    second: Boss 1 fight sprite (1)_194
+  - first:
+      213: 1241515154397769174
+    second: Boss 1 fight sprite (1)_195
+  - first:
+      213: -102660224300993893
+    second: Boss 1 fight sprite (1)_196
+  - first:
+      213: -7233348688724562292
+    second: Boss 1 fight sprite (1)_197
+  - first:
+      213: 7366047506345981307
+    second: Boss 1 fight sprite (1)_198
+  - first:
+      213: 550125250747440202
+    second: Boss 1 fight sprite (1)_199
+  - first:
+      213: -3375742651345368919
+    second: Boss 1 fight sprite (1)_200
+  - first:
+      213: -3164911960739192701
+    second: Boss 1 fight sprite (1)_201
+  - first:
+      213: -5046124461437262236
+    second: Boss 1 fight sprite (1)_202
+  - first:
+      213: 2277946769227884469
+    second: Boss 1 fight sprite (1)_203
+  - first:
+      213: -7793640742343577165
+    second: Boss 1 fight sprite (1)_204
+  - first:
+      213: -5189269507030204821
+    second: Boss 1 fight sprite (1)_205
+  - first:
+      213: 6688005671872008649
+    second: Boss 1 fight sprite (1)_206
+  - first:
+      213: 4433607480544565124
+    second: Boss 1 fight sprite (1)_207
+  - first:
+      213: 7333421270256592974
+    second: Boss 1 fight sprite (1)_208
+  - first:
+      213: 8246350734787066120
+    second: Boss 1 fight sprite (1)_209
+  - first:
+      213: 7851131948723703759
+    second: Boss 1 fight sprite (1)_210
+  - first:
+      213: 3383856301291006088
+    second: Boss 1 fight sprite (1)_211
+  - first:
+      213: 9070753466828663771
+    second: Boss 1 fight sprite (1)_212
+  - first:
+      213: 8874195310561431220
+    second: Boss 1 fight sprite (1)_213
+  - first:
+      213: 6829272967848511923
+    second: Boss 1 fight sprite (1)_214
+  - first:
+      213: 6084472730580856771
+    second: Boss 1 fight sprite (1)_215
+  - first:
+      213: -7696933938154908286
+    second: Boss 1 fight sprite (1)_216
+  - first:
+      213: 6174257006736929243
+    second: Boss 1 fight sprite (1)_217
+  - first:
+      213: -7128839709545995457
+    second: Boss 1 fight sprite (1)_218
+  - first:
+      213: 6955564474267349458
+    second: Boss 1 fight sprite (1)_219
+  - first:
+      213: 3290502370640607130
+    second: Boss 1 fight sprite (1)_220
+  - first:
+      213: -6352876009688849103
+    second: Boss 1 fight sprite (1)_221
+  - first:
+      213: -184020193512319897
+    second: Boss 1 fight sprite (1)_222
+  - first:
+      213: 4647399825077460161
+    second: Boss 1 fight sprite (1)_223
+  - first:
+      213: -5315768877351650714
+    second: Boss 1 fight sprite (1)_224
+  - first:
+      213: 6077256850456248823
+    second: Boss 1 fight sprite (1)_225
+  - first:
+      213: -6484111429114111367
+    second: Boss 1 fight sprite (1)_226
+  - first:
+      213: 1989819702840016360
+    second: Boss 1 fight sprite (1)_227
+  - first:
+      213: 1106535169503407207
+    second: Boss 1 fight sprite (1)_228
+  - first:
+      213: 5097782589868786094
+    second: Boss 1 fight sprite (1)_229
+  - first:
+      213: -402798925543108308
+    second: Boss 1 fight sprite (1)_230
+  - first:
+      213: 853129645398330346
+    second: Boss 1 fight sprite (1)_231
+  - first:
+      213: -7602735087021151945
+    second: Boss 1 fight sprite (1)_232
+  - first:
+      213: 29548595065369666
+    second: Boss 1 fight sprite (1)_233
+  - first:
+      213: -6823187446112032665
+    second: Boss 1 fight sprite (1)_234
+  - first:
+      213: 5806853518847615227
+    second: Boss 1 fight sprite (1)_235
+  - first:
+      213: -8720121823004777905
+    second: Boss 1 fight sprite (1)_236
+  - first:
+      213: -1672253365817757161
+    second: Boss 1 fight sprite (1)_237
+  - first:
+      213: -6080593700629083115
+    second: Boss 1 fight sprite (1)_238
+  - first:
+      213: 8503085096787553774
+    second: Boss 1 fight sprite (1)_239
+  - first:
+      213: -50327562286627923
+    second: Boss 1 fight sprite (1)_240
+  - first:
+      213: -5018421245290069037
+    second: Boss 1 fight sprite (1)_241
+  - first:
+      213: 869350878697338527
+    second: Boss 1 fight sprite (1)_242
+  - first:
+      213: 6735782245569013116
+    second: Boss 1 fight sprite (1)_243
+  - first:
+      213: 777909213185456332
+    second: Boss 1 fight sprite (1)_244
+  - first:
+      213: -6926625690051428331
+    second: Boss 1 fight sprite (1)_245
+  - first:
+      213: 3982305461104142688
+    second: Boss 1 fight sprite (1)_246
+  - first:
+      213: -1791676397401597424
+    second: Boss 1 fight sprite (1)_247
+  - first:
+      213: -3018034942346951320
+    second: Boss 1 fight sprite (1)_248
+  - first:
+      213: 4708496464445849477
+    second: Boss 1 fight sprite (1)_249
+  - first:
+      213: -3805424600696605095
+    second: Boss 1 fight sprite (1)_250
+  - first:
+      213: -1727931482493339448
+    second: Boss 1 fight sprite (1)_251
+  - first:
+      213: -2214363019468371214
+    second: Boss 1 fight sprite (1)_252
+  - first:
+      213: 2120493266079134779
+    second: Boss 1 fight sprite (1)_253
+  - first:
+      213: -7006940380730279648
+    second: Boss 1 fight sprite (1)_254
+  - first:
+      213: 1189309197048682548
+    second: Boss 1 fight sprite (1)_255
+  - first:
+      213: -3100263154015205338
+    second: Boss 1 fight sprite (1)_256
+  - first:
+      213: -540564917592527158
+    second: Boss 1 fight sprite (1)_257
+  - first:
+      213: -1850240865487503806
+    second: Boss 1 fight sprite (1)_258
+  - first:
+      213: 3056920151637296128
+    second: Boss 1 fight sprite (1)_259
+  - first:
+      213: -9197453254353713577
+    second: Boss 1 fight sprite (1)_260
+  - first:
+      213: 5495412881476381978
+    second: Boss 1 fight sprite (1)_261
+  - first:
+      213: -6552770286288860164
+    second: Boss 1 fight sprite (1)_262
+  - first:
+      213: 5316702657705348007
+    second: Boss 1 fight sprite (1)_263
+  - first:
+      213: -6620888473397133463
+    second: Boss 1 fight sprite (1)_264
+  - first:
+      213: 6344218051192508377
+    second: Boss 1 fight sprite (1)_265
+  - first:
+      213: 1984670746108772948
+    second: Boss 1 fight sprite (1)_266
+  - first:
+      213: 354023720152234974
+    second: Boss 1 fight sprite (1)_267
+  - first:
+      213: -2327686669570217372
+    second: Boss 1 fight sprite (1)_268
+  - first:
+      213: 9175447229222078507
+    second: Boss 1 fight sprite (1)_269
+  - first:
+      213: 1169317780794216170
+    second: Boss 1 fight sprite (1)_270
+  - first:
+      213: 1965557450459749140
+    second: Boss 1 fight sprite (1)_271
+  - first:
+      213: -3963259232384114450
+    second: Boss 1 fight sprite (1)_272
+  - first:
+      213: 1584782775050247489
+    second: Boss 1 fight sprite (1)_273
+  - first:
+      213: -6779915225234882666
+    second: Boss 1 fight sprite (1)_274
+  - first:
+      213: 8784063589688661506
+    second: Boss 1 fight sprite (1)_275
+  - first:
+      213: 2851621675762767996
+    second: Boss 1 fight sprite (1)_276
+  - first:
+      213: 1140403961253203308
+    second: Boss 1 fight sprite (1)_277
+  - first:
+      213: -8137525282242466753
+    second: Boss 1 fight sprite (1)_278
+  - first:
+      213: 4878794508575097941
+    second: Boss 1 fight sprite (1)_279
+  - first:
+      213: -6307520233167046595
+    second: Boss 1 fight sprite (1)_280
+  - first:
+      213: -6641752811295667820
+    second: Boss 1 fight sprite (1)_281
+  - first:
+      213: -8597844774865780267
+    second: Boss 1 fight sprite (1)_282
+  - first:
+      213: -4248144904082560953
+    second: Boss 1 fight sprite (1)_283
+  - first:
+      213: -5668374895483074648
+    second: Boss 1 fight sprite (1)_284
+  - first:
+      213: -5969172690930053600
+    second: Boss 1 fight sprite (1)_285
+  - first:
+      213: 7188990652690767866
+    second: Boss 1 fight sprite (1)_286
+  - first:
+      213: -7104027817272553099
+    second: Boss 1 fight sprite (1)_287
+  - first:
+      213: 4055471467101859315
+    second: Boss 1 fight sprite (1)_288
+  - first:
+      213: -3806758176465961713
+    second: Boss 1 fight sprite (1)_289
+  - first:
+      213: 7406643685563886729
+    second: Boss 1 fight sprite (1)_290
+  - first:
+      213: -8675833267833912607
+    second: Boss 1 fight sprite (1)_291
+  - first:
+      213: 310834102853109295
+    second: Boss 1 fight sprite (1)_292
+  - first:
+      213: 3071599721570332740
+    second: Boss 1 fight sprite (1)_293
+  - first:
+      213: 4767345573831089544
+    second: Boss 1 fight sprite (1)_294
+  - first:
+      213: 6696305470064699071
+    second: Boss 1 fight sprite (1)_295
+  - first:
+      213: 1886300586782565273
+    second: Boss 1 fight sprite (1)_296
+  - first:
+      213: -3137076684258567584
+    second: Boss 1 fight sprite (1)_297
+  - first:
+      213: -1169786189704268841
+    second: Boss 1 fight sprite (1)_298
+  - first:
+      213: 4649500347920358583
+    second: Boss 1 fight sprite (1)_299
+  - first:
+      213: 4513676394759807751
+    second: Boss 1 fight sprite (1)_300
+  - first:
+      213: 5436521257459821698
+    second: Boss 1 fight sprite (1)_301
+  - first:
+      213: 8071517261539097775
+    second: Boss 1 fight sprite (1)_302
+  - first:
+      213: -7173600182692467352
+    second: Boss 1 fight sprite (1)_303
+  - first:
+      213: 6197081443958440639
+    second: Boss 1 fight sprite (1)_304
+  - first:
+      213: -3887775647454083962
+    second: Boss 1 fight sprite (1)_305
+  - first:
+      213: -1858498512720652263
+    second: Boss 1 fight sprite (1)_306
+  - first:
+      213: -5829999388655792123
+    second: Boss 1 fight sprite (1)_307
+  - first:
+      213: -3872789082420759436
+    second: Boss 1 fight sprite (1)_308
+  - first:
+      213: -5870588027055473537
+    second: Boss 1 fight sprite (1)_309
+  - first:
+      213: -4022559432026002945
+    second: Boss 1 fight sprite (1)_310
+  - first:
+      213: -2372570080928930401
+    second: Boss 1 fight sprite (1)_311
+  - first:
+      213: 3299994642967240238
+    second: Boss 1 fight sprite (1)_312
+  - first:
+      213: 1620987706598290894
+    second: Boss 1 fight sprite (1)_313
+  - first:
+      213: -8772081596908047630
+    second: Boss 1 fight sprite (1)_314
+  - first:
+      213: 7922446975462173949
+    second: Boss 1 fight sprite (1)_315
+  - first:
+      213: 4491410678936413508
+    second: Boss 1 fight sprite (1)_316
+  - first:
+      213: -3096127530873199926
+    second: Boss 1 fight sprite (1)_317
+  - first:
+      213: 4807482982937618836
+    second: Boss 1 fight sprite (1)_318
+  - first:
+      213: -4895962144458530596
+    second: Boss 1 fight sprite (1)_319
+  - first:
+      213: 6317221235524353843
+    second: Boss 1 fight sprite (1)_320
+  - first:
+      213: 3751739391803390549
+    second: Boss 1 fight sprite (1)_321
+  - first:
+      213: 8914022809451168755
+    second: Boss 1 fight sprite (1)_322
+  - first:
+      213: 4956031393896630533
+    second: Boss 1 fight sprite (1)_323
+  - first:
+      213: 4572600738613445616
+    second: Boss 1 fight sprite (1)_324
+  - first:
+      213: -7336321060378903632
+    second: Boss 1 fight sprite (1)_325
+  - first:
+      213: 5676381421604453643
+    second: Boss 1 fight sprite (1)_326
+  - first:
+      213: -3269520083571936285
+    second: Boss 1 fight sprite (1)_327
+  - first:
+      213: -9148813732410972521
+    second: Boss 1 fight sprite (1)_328
+  - first:
+      213: 1686051030947311110
+    second: Boss 1 fight sprite (1)_329
+  - first:
+      213: 8235420892859709270
+    second: Boss 1 fight sprite (1)_330
+  - first:
+      213: -1532600630887807665
+    second: Boss 1 fight sprite (1)_331
+  - first:
+      213: -8020136340299976376
+    second: Boss 1 fight sprite (1)_332
+  - first:
+      213: -8783659720947418096
+    second: Boss 1 fight sprite (1)_333
+  - first:
+      213: 8481872117088522091
+    second: Boss 1 fight sprite (1)_334
+  - first:
+      213: -5141178280541981294
+    second: Boss 1 fight sprite (1)_335
+  - first:
+      213: -6674831473637457107
+    second: Boss 1 fight sprite (1)_336
+  - first:
+      213: -5136660589827829401
+    second: Boss 1 fight sprite (1)_337
+  - first:
+      213: -3119574746141309949
+    second: Boss 1 fight sprite (1)_338
+  - first:
+      213: 4105318685900717855
+    second: Boss 1 fight sprite (1)_339
+  - first:
+      213: 7364561214705466562
+    second: Boss 1 fight sprite (1)_340
+  - first:
+      213: -3161696251379026074
+    second: Boss 1 fight sprite (1)_341
+  - first:
+      213: -5194381577947568518
+    second: Boss 1 fight sprite (1)_342
+  - first:
+      213: -1680004154928810816
+    second: Boss 1 fight sprite (1)_343
+  - first:
+      213: -4141840646838335949
+    second: Boss 1 fight sprite (1)_344
+  - first:
+      213: 5329965161606998137
+    second: Boss 1 fight sprite (1)_345
+  - first:
+      213: -786399451616947799
+    second: Boss 1 fight sprite (1)_346
+  - first:
+      213: -218829203291792803
+    second: Boss 1 fight sprite (1)_347
+  - first:
+      213: -5484140045940124787
+    second: Boss 1 fight sprite (1)_348
+  - first:
+      213: -2441584061444864585
+    second: Boss 1 fight sprite (1)_349
+  - first:
+      213: 4550574943277005372
+    second: Boss 1 fight sprite (1)_350
+  - first:
+      213: -1221359993307966495
+    second: Boss 1 fight sprite (1)_351
+  - first:
+      213: 5222033242122580443
+    second: Boss 1 fight sprite (1)_352
+  - first:
+      213: -4897483417177712142
+    second: Boss 1 fight sprite (1)_353
+  - first:
+      213: -2401482770520077693
+    second: Boss 1 fight sprite (1)_354
+  - first:
+      213: 8604924733137350688
+    second: Boss 1 fight sprite (1)_355
+  - first:
+      213: -3122245027467082872
+    second: Boss 1 fight sprite (1)_356
+  - first:
+      213: 5707987094093738821
+    second: Boss 1 fight sprite (1)_357
+  - first:
+      213: -2947607075768506286
+    second: Boss 1 fight sprite (1)_358
+  - first:
+      213: 1062360165984250201
+    second: Boss 1 fight sprite (1)_359
+  - first:
+      213: -115189309928408530
+    second: Boss 1 fight sprite (1)_360
+  - first:
+      213: -7030739754237707061
+    second: Boss 1 fight sprite (1)_361
+  - first:
+      213: 1718192780371110544
+    second: Boss 1 fight sprite (1)_362
+  - first:
+      213: 8212857025093362447
+    second: Boss 1 fight sprite (1)_363
+  - first:
+      213: -6696958346385736142
+    second: Boss 1 fight sprite (1)_364
+  - first:
+      213: -2605457830571554068
+    second: Boss 1 fight sprite (1)_365
+  - first:
+      213: -8924292082609521615
+    second: Boss 1 fight sprite (1)_366
+  - first:
+      213: -5621063668203604048
+    second: Boss 1 fight sprite (1)_367
+  - first:
+      213: 3909083192308941785
+    second: Boss 1 fight sprite (1)_368
+  - first:
+      213: 4909433764031601524
+    second: Boss 1 fight sprite (1)_369
+  - first:
+      213: -835557457521547127
+    second: Boss 1 fight sprite (1)_370
+  - first:
+      213: 2379503646509247071
+    second: Boss 1 fight sprite (1)_371
+  - first:
+      213: -2726448507865469477
+    second: Boss 1 fight sprite (1)_372
+  - first:
+      213: -2674821930665407930
+    second: Boss 1 fight sprite (1)_373
+  - first:
+      213: 4187012393567892087
+    second: Boss 1 fight sprite (1)_374
+  - first:
+      213: 243126741417272680
+    second: Boss 1 fight sprite (1)_375
+  - first:
+      213: 3815306071654866934
+    second: Boss 1 fight sprite (1)_376
+  - first:
+      213: 3931908930918960962
+    second: Boss 1 fight sprite (1)_377
+  - first:
+      213: -3059121015482167059
+    second: Boss 1 fight sprite (1)_378
+  - first:
+      213: 6559466249653698471
+    second: Boss 1 fight sprite (1)_379
+  - first:
+      213: 1792281610699553056
+    second: Boss 1 fight sprite (1)_380
+  - first:
+      213: -4450243718666968378
+    second: Boss 1 fight sprite (1)_381
+  - first:
+      213: -8691378103960621156
+    second: Boss 1 fight sprite (1)_382
+  - first:
+      213: -8117878708146795015
+    second: Boss 1 fight sprite (1)_383
+  - first:
+      213: 5903492442174197426
+    second: Boss 1 fight sprite (1)_384
+  - first:
+      213: -1972405319182825695
+    second: Boss 1 fight sprite (1)_385
+  - first:
+      213: 4480689793357931432
+    second: Boss 1 fight sprite (1)_386
+  - first:
+      213: 8251427690632655041
+    second: Boss 1 fight sprite (1)_387
+  - first:
+      213: -5736838066402487132
+    second: Boss 1 fight sprite (1)_388
+  - first:
+      213: 1914223077179195189
+    second: Boss 1 fight sprite (1)_389
+  - first:
+      213: -5395340625284344562
+    second: Boss 1 fight sprite (1)_390
+  - first:
+      213: -7612701262625554504
+    second: Boss 1 fight sprite (1)_391
+  - first:
+      213: -9119644074435316512
+    second: Boss 1 fight sprite (1)_392
+  - first:
+      213: -4685877097777785557
+    second: Boss 1 fight sprite (1)_393
+  - first:
+      213: -8180327657887385325
+    second: Boss 1 fight sprite (1)_394
+  - first:
+      213: 6848984479451947445
+    second: Boss 1 fight sprite (1)_395
+  - first:
+      213: -8755600818620897997
+    second: Boss 1 fight sprite (1)_396
+  - first:
+      213: -104277890814508811
+    second: Boss 1 fight sprite (1)_397
+  - first:
+      213: 2063237085287288343
+    second: Boss 1 fight sprite (1)_398
+  - first:
+      213: -6641791727243130250
+    second: Boss 1 fight sprite (1)_399
+  - first:
+      213: -5343153481458728289
+    second: Boss 1 fight sprite (1)_400
+  - first:
+      213: -21291797403114182
+    second: Boss 1 fight sprite (1)_401
+  - first:
+      213: 5245487978824597223
+    second: Boss 1 fight sprite (1)_402
+  - first:
+      213: 2807150702327393320
+    second: Boss 1 fight sprite (1)_403
+  - first:
+      213: 8419964950084504084
+    second: Boss 1 fight sprite (1)_404
+  - first:
+      213: -5270200980997116893
+    second: Boss 1 fight sprite (1)_405
+  - first:
+      213: 4979073016319916748
+    second: Boss 1 fight sprite (1)_406
+  - first:
+      213: 6325203209920127758
+    second: Boss 1 fight sprite (1)_407
+  - first:
+      213: 3848846377848797800
+    second: Boss 1 fight sprite (1)_408
+  - first:
+      213: -6641119825898686988
+    second: Boss 1 fight sprite (1)_409
+  - first:
+      213: -1836579853647937526
+    second: Boss 1 fight sprite (1)_410
+  - first:
+      213: -5400000837793675820
+    second: Boss 1 fight sprite (1)_411
+  - first:
+      213: 295742084274175408
+    second: Boss 1 fight sprite (1)_412
+  - first:
+      213: 3517924311415603498
+    second: Boss 1 fight sprite (1)_413
+  - first:
+      213: 6076298425943573427
+    second: Boss 1 fight sprite (1)_414
+  - first:
+      213: -137232954409825948
+    second: Boss 1 fight sprite (1)_415
+  - first:
+      213: -8310027654892228247
+    second: Boss 1 fight sprite (1)_416
+  - first:
+      213: -9056210444726826883
+    second: Boss 1 fight sprite (1)_417
+  - first:
+      213: -7263392036101476895
+    second: Boss 1 fight sprite (1)_418
+  - first:
+      213: -8819464608506151617
+    second: Boss 1 fight sprite (1)_419
+  - first:
+      213: -5249871205050979906
+    second: Boss 1 fight sprite (1)_420
+  - first:
+      213: -8864732697307354898
+    second: Boss 1 fight sprite (1)_421
+  - first:
+      213: 1696660131198495762
+    second: Boss 1 fight sprite (1)_422
+  - first:
+      213: -1387624473831442003
+    second: Boss 1 fight sprite (1)_423
+  - first:
+      213: -108628447321685338
+    second: Boss 1 fight sprite (1)_424
+  - first:
+      213: 7655437346941743406
+    second: Boss 1 fight sprite (1)_425
+  - first:
+      213: -6989744598268266527
+    second: Boss 1 fight sprite (1)_426
+  - first:
+      213: -7674779250556038838
+    second: Boss 1 fight sprite (1)_427
+  - first:
+      213: -1231512993469836622
+    second: Boss 1 fight sprite (1)_428
+  - first:
+      213: -3410298756954481382
+    second: Boss 1 fight sprite (1)_429
+  - first:
+      213: -1476427323810546819
+    second: Boss 1 fight sprite (1)_430
+  - first:
+      213: 5891883023991395813
+    second: Boss 1 fight sprite (1)_431
+  - first:
+      213: 1960776213586313813
+    second: Boss 1 fight sprite (1)_432
+  - first:
+      213: 384813117327850315
+    second: Boss 1 fight sprite (1)_433
+  - first:
+      213: -2804493686978513390
+    second: Boss 1 fight sprite (1)_434
+  - first:
+      213: 3392935510694776208
+    second: Boss 1 fight sprite (1)_435
+  - first:
+      213: 1711919885808791995
+    second: Boss 1 fight sprite (1)_436
+  - first:
+      213: -5784325071186099864
+    second: Boss 1 fight sprite (1)_437
+  - first:
+      213: 6871144806289747851
+    second: Boss 1 fight sprite (1)_438
+  - first:
+      213: -2355842681317529393
+    second: Boss 1 fight sprite (1)_439
+  - first:
+      213: 2769486484887466958
+    second: Boss 1 fight sprite (1)_440
+  - first:
+      213: 5656812493474110777
+    second: Boss 1 fight sprite (1)_441
+  - first:
+      213: 723641893944142259
+    second: Boss 1 fight sprite (1)_442
+  - first:
+      213: -2882736366538601642
+    second: Boss 1 fight sprite (1)_443
+  - first:
+      213: -4284336852489315415
+    second: Boss 1 fight sprite (1)_444
+  - first:
+      213: -1325389468311866672
+    second: Boss 1 fight sprite (1)_445
+  - first:
+      213: 558793020460193263
+    second: Boss 1 fight sprite (1)_446
+  - first:
+      213: 8437894494696170718
+    second: Boss 1 fight sprite (1)_447
+  - first:
+      213: 5958319895038655301
+    second: Boss 1 fight sprite (1)_448
+  - first:
+      213: -2371538005054866171
+    second: Boss 1 fight sprite (1)_449
+  - first:
+      213: 2076525938963743265
+    second: Boss 1 fight sprite (1)_450
+  - first:
+      213: -6367776612111106474
+    second: Boss 1 fight sprite (1)_451
+  - first:
+      213: -3306080293478860640
+    second: Boss 1 fight sprite (1)_452
+  - first:
+      213: -5668699012105762582
+    second: Boss 1 fight sprite (1)_453
+  - first:
+      213: -6829609039322364269
+    second: Boss 1 fight sprite (1)_454
+  - first:
+      213: -3047551137782711647
+    second: Boss 1 fight sprite (1)_455
+  - first:
+      213: -5929520385220878023
+    second: Boss 1 fight sprite (1)_456
+  - first:
+      213: -8580958276087977641
+    second: Boss 1 fight sprite (1)_457
+  - first:
+      213: 6144878027032392668
+    second: Boss 1 fight sprite (1)_458
+  - first:
+      213: 2949242522906108144
+    second: Boss 1 fight sprite (1)_459
+  - first:
+      213: -6602547766248838832
+    second: Boss 1 fight sprite (1)_460
+  - first:
+      213: -2195256873570455211
+    second: Boss 1 fight sprite (1)_461
+  - first:
+      213: -6889995957069410613
+    second: Boss 1 fight sprite (1)_462
+  - first:
+      213: -2487436622738160087
+    second: Boss 1 fight sprite (1)_463
+  - first:
+      213: 2083977888686881699
+    second: Boss 1 fight sprite (1)_464
+  - first:
+      213: -5160688192495403215
+    second: Boss 1 fight sprite (1)_465
+  - first:
+      213: -1477607406725678904
+    second: Boss 1 fight sprite (1)_466
+  - first:
+      213: 1559181963858126733
+    second: Boss 1 fight sprite (1)_467
+  - first:
+      213: 197920592594484350
+    second: Boss 1 fight sprite (1)_468
+  - first:
+      213: 7460271800563591826
+    second: Boss 1 fight sprite (1)_469
+  - first:
+      213: -5500489059066881482
+    second: Boss 1 fight sprite (1)_470
+  - first:
+      213: 7196283563894271017
+    second: Boss 1 fight sprite (1)_471
+  - first:
+      213: 5145512481522420518
+    second: Boss 1 fight sprite (1)_472
+  - first:
+      213: 154372005071102817
+    second: Boss 1 fight sprite (1)_473
+  - first:
+      213: 3456757068696792571
+    second: Boss 1 fight sprite (1)_474
+  - first:
+      213: -6288899240399564931
+    second: Boss 1 fight sprite (1)_475
+  - first:
+      213: 2650362356207856747
+    second: Boss 1 fight sprite (1)_476
+  - first:
+      213: -6665013000770822579
+    second: Boss 1 fight sprite (1)_477
+  - first:
+      213: 8295097804044214280
+    second: Boss 1 fight sprite (1)_478
+  - first:
+      213: 3292355406767505849
+    second: Boss 1 fight sprite (1)_479
+  - first:
+      213: -2479885706299923893
+    second: Boss 1 fight sprite (1)_480
+  - first:
+      213: 8809555019663735918
+    second: Boss 1 fight sprite (1)_481
+  - first:
+      213: -8950806010264300458
+    second: Boss 1 fight sprite (1)_482
+  - first:
+      213: 1824737361009862770
+    second: Boss 1 fight sprite (1)_483
+  - first:
+      213: -7986084113624462973
+    second: Boss 1 fight sprite (1)_484
+  - first:
+      213: -6012436429541655466
+    second: Boss 1 fight sprite (1)_485
+  - first:
+      213: 6342384148102806736
+    second: Boss 1 fight sprite (1)_486
+  - first:
+      213: 119796092979832978
+    second: Boss 1 fight sprite (1)_487
+  - first:
+      213: 4006058566517148939
+    second: Boss 1 fight sprite (1)_488
+  - first:
+      213: 1049601165727306070
+    second: Boss 1 fight sprite (1)_489
+  - first:
+      213: 3434125639198509941
+    second: Boss 1 fight sprite (1)_490
+  - first:
+      213: 92567677235697504
+    second: Boss 1 fight sprite (1)_491
+  - first:
+      213: 6508534111250795181
+    second: Boss 1 fight sprite (1)_492
+  - first:
+      213: -3729795144380886021
+    second: Boss 1 fight sprite (1)_493
+  - first:
+      213: -3139488022191783991
+    second: Boss 1 fight sprite (1)_494
+  - first:
+      213: 2798011594156688820
+    second: Boss 1 fight sprite (1)_495
+  - first:
+      213: -5893400150266934047
+    second: Boss 1 fight sprite (1)_496
+  - first:
+      213: -4122130594260604984
+    second: Boss 1 fight sprite (1)_497
+  - first:
+      213: -426558357393505753
+    second: Boss 1 fight sprite (1)_498
+  - first:
+      213: -4342436008092058509
+    second: Boss 1 fight sprite (1)_499
+  - first:
+      213: -3323016704785706347
+    second: Boss 1 fight sprite (1)_500
+  - first:
+      213: -256769610545494897
+    second: Boss 1 fight sprite (1)_501
+  - first:
+      213: -3845695500630705803
+    second: Boss 1 fight sprite (1)_502
+  - first:
+      213: 276159423139649802
+    second: Boss 1 fight sprite (1)_503
+  - first:
+      213: -8164951962240446483
+    second: Boss 1 fight sprite (1)_504
+  - first:
+      213: 955136108160571227
+    second: Boss 1 fight sprite (1)_505
+  - first:
+      213: 250363083632068964
+    second: Boss 1 fight sprite (1)_506
+  - first:
+      213: -4634291767061477396
+    second: Boss 1 fight sprite (1)_507
+  - first:
+      213: 8028495463290091437
+    second: Boss 1 fight sprite (1)_508
+  - first:
+      213: -116844880212611664
+    second: Boss 1 fight sprite (1)_509
+  - first:
+      213: -925232705398236495
+    second: Boss 1 fight sprite (1)_510
+  - first:
+      213: 8578697790950391362
+    second: Boss 1 fight sprite (1)_511
+  - first:
+      213: -5994116789335745915
+    second: Boss 1 fight sprite (1)_512
+  - first:
+      213: 3389213498392934143
+    second: Boss 1 fight sprite (1)_513
+  - first:
+      213: -573983294915859260
+    second: Boss 1 fight sprite (1)_514
+  - first:
+      213: 2299088814889285183
+    second: Boss 1 fight sprite (1)_515
+  - first:
+      213: 7135575379836771413
+    second: Boss 1 fight sprite (1)_516
+  - first:
+      213: -7599054692323945106
+    second: Boss 1 fight sprite (1)_517
+  - first:
+      213: 4235082893273923285
+    second: Boss 1 fight sprite (1)_518
+  - first:
+      213: -7134596735679971003
+    second: Boss 1 fight sprite (1)_519
+  - first:
+      213: -858164144420478872
+    second: Boss 1 fight sprite (1)_520
+  - first:
+      213: 5759830417402514532
+    second: Boss 1 fight sprite (1)_521
+  - first:
+      213: 9137779613795270772
+    second: Boss 1 fight sprite (1)_522
+  - first:
+      213: -2155136744375193668
+    second: Boss 1 fight sprite (1)_523
+  - first:
+      213: -5596200662101133797
+    second: Boss 1 fight sprite (1)_524
+  - first:
+      213: 655846855604069676
+    second: Boss 1 fight sprite (1)_525
+  - first:
+      213: 4165887495693259426
+    second: Boss 1 fight sprite (1)_526
+  - first:
+      213: 1487718326484368008
+    second: Boss 1 fight sprite (1)_527
+  - first:
+      213: -8862588791559197046
+    second: Boss 1 fight sprite (1)_528
+  - first:
+      213: -4339814287324804448
+    second: Boss 1 fight sprite (1)_529
+  - first:
+      213: -834942668299787989
+    second: Boss 1 fight sprite (1)_530
+  - first:
+      213: -1845792668099316823
+    second: Boss 1 fight sprite (1)_531
+  - first:
+      213: -2820711576676019055
+    second: Boss 1 fight sprite (1)_532
+  - first:
+      213: -9013450194752355262
+    second: Boss 1 fight sprite (1)_533
+  - first:
+      213: -5347485238607325089
+    second: Boss 1 fight sprite (1)_534
+  - first:
+      213: -4914716133982181890
+    second: Boss 1 fight sprite (1)_535
+  - first:
+      213: 4331235239970762137
+    second: Boss 1 fight sprite (1)_536
+  - first:
+      213: 3661795023998610537
+    second: Boss 1 fight sprite (1)_537
+  - first:
+      213: 926852534700308835
+    second: Boss 1 fight sprite (1)_538
+  - first:
+      213: 266207141912790657
+    second: Boss 1 fight sprite (1)_539
+  - first:
+      213: 2823981582887358585
+    second: Boss 1 fight sprite (1)_540
+  - first:
+      213: -2217487409815153913
+    second: Boss 1 fight sprite (1)_541
+  - first:
+      213: 7127045273619804729
+    second: Boss 1 fight sprite (1)_542
+  - first:
+      213: 2548886962534468867
+    second: Boss 1 fight sprite (1)_543
+  - first:
+      213: 3160973374782499923
+    second: Boss 1 fight sprite (1)_544
+  - first:
+      213: 7113186137802189498
+    second: Boss 1 fight sprite (1)_545
+  - first:
+      213: -4401245653128110777
+    second: Boss 1 fight sprite (1)_546
+  - first:
+      213: -1876229532915444584
+    second: Boss 1 fight sprite (1)_547
+  - first:
+      213: 8632816498618999461
+    second: Boss 1 fight sprite (1)_548
+  - first:
+      213: -9127369993974572850
+    second: Boss 1 fight sprite (1)_549
+  - first:
+      213: -6077208483456423070
+    second: Boss 1 fight sprite (1)_550
+  - first:
+      213: -2625499467129407593
+    second: Boss 1 fight sprite (1)_551
+  - first:
+      213: -3475027795216373736
+    second: Boss 1 fight sprite (1)_552
+  - first:
+      213: -7954796177453841655
+    second: Boss 1 fight sprite (1)_553
+  - first:
+      213: -1847020678719227870
+    second: Boss 1 fight sprite (1)_554
+  - first:
+      213: 716202283640562391
+    second: Boss 1 fight sprite (1)_555
+  - first:
+      213: -3339462456473505472
+    second: Boss 1 fight sprite (1)_556
+  - first:
+      213: 8424743355491176389
+    second: Boss 1 fight sprite (1)_557
+  - first:
+      213: 2337749206609599054
+    second: Boss 1 fight sprite (1)_558
+  - first:
+      213: 7334272860773547728
+    second: Boss 1 fight sprite (1)_559
+  - first:
+      213: -1937504454980394643
+    second: Boss 1 fight sprite (1)_560
+  - first:
+      213: -3848929211893494660
+    second: Boss 1 fight sprite (1)_561
+  - first:
+      213: 3301724547828052207
+    second: Boss 1 fight sprite (1)_562
+  - first:
+      213: 4195678959063034168
+    second: Boss 1 fight sprite (1)_563
+  - first:
+      213: -5680077486055565171
+    second: Boss 1 fight sprite (1)_564
+  - first:
+      213: -5546136832926568913
+    second: Boss 1 fight sprite (1)_565
+  - first:
+      213: 3820611156699745148
+    second: Boss 1 fight sprite (1)_566
+  - first:
+      213: -7890728072264369458
+    second: Boss 1 fight sprite (1)_567
+  - first:
+      213: 9063427212196839135
+    second: Boss 1 fight sprite (1)_568
+  - first:
+      213: -2948944892497460876
+    second: Boss 1 fight sprite (1)_569
+  - first:
+      213: 677173039162439255
+    second: Boss 1 fight sprite (1)_570
+  - first:
+      213: 8653755409763774277
+    second: Boss 1 fight sprite (1)_571
+  - first:
+      213: 8228201636210692822
+    second: Boss 1 fight sprite (1)_572
+  - first:
+      213: 364379176468313472
+    second: Boss 1 fight sprite (1)_573
+  - first:
+      213: 2940439646912084783
+    second: Boss 1 fight sprite (1)_574
+  - first:
+      213: 6776525015690217889
+    second: Boss 1 fight sprite (1)_575
+  - first:
+      213: 7843272322232578292
+    second: Boss 1 fight sprite (1)_576
+  - first:
+      213: -1773132117546452395
+    second: Boss 1 fight sprite (1)_577
+  - first:
+      213: 3113825688837328006
+    second: Boss 1 fight sprite (1)_578
+  - first:
+      213: -1557355537259312516
+    second: Boss 1 fight sprite (1)_579
+  - first:
+      213: 1074741721961555061
+    second: Boss 1 fight sprite (1)_580
+  - first:
+      213: -8045436652202394471
+    second: Boss 1 fight sprite (1)_581
+  - first:
+      213: 4627045251139313471
+    second: Boss 1 fight sprite (1)_582
+  - first:
+      213: -1823798742998694973
+    second: Boss 1 fight sprite (1)_583
+  - first:
+      213: 4374458344941585961
+    second: Boss 1 fight sprite (1)_584
+  - first:
+      213: 8132370085675713200
+    second: Boss 1 fight sprite (1)_585
+  - first:
+      213: -9069961579247060119
+    second: Boss 1 fight sprite (1)_586
+  - first:
+      213: 8925452430022311509
+    second: Boss 1 fight sprite (1)_587
+  - first:
+      213: 7941755387626255550
+    second: Boss 1 fight sprite (1)_588
+  - first:
+      213: 7869919967329066135
+    second: Boss 1 fight sprite (1)_589
+  - first:
+      213: -449728230214622689
+    second: Boss 1 fight sprite (1)_590
+  - first:
+      213: 8928950037310741320
+    second: Boss 1 fight sprite (1)_591
+  - first:
+      213: -8668698379395918078
+    second: Boss 1 fight sprite (1)_592
+  - first:
+      213: -5165303886694509078
+    second: Boss 1 fight sprite (1)_593
+  - first:
+      213: -6904729610693158351
+    second: Boss 1 fight sprite (1)_594
+  - first:
+      213: 7145702092722893643
+    second: Boss 1 fight sprite (1)_595
+  - first:
+      213: 3411815738178485957
+    second: Boss 1 fight sprite (1)_596
+  - first:
+      213: -2351894789406888801
+    second: Boss 1 fight sprite (1)_597
+  - first:
+      213: -7360226252224332528
+    second: Boss 1 fight sprite (1)_598
+  - first:
+      213: 8311521366938640338
+    second: Boss 1 fight sprite (1)_599
+  - first:
+      213: 4508414580056601117
+    second: Boss 1 fight sprite (1)_600
+  - first:
+      213: 5904358108038282921
+    second: Boss 1 fight sprite (1)_601
+  - first:
+      213: -9134914895573910494
+    second: Boss 1 fight sprite (1)_602
+  - first:
+      213: 3790886932384246507
+    second: Boss 1 fight sprite (1)_603
+  - first:
+      213: -5147331839080671438
+    second: Boss 1 fight sprite (1)_604
+  - first:
+      213: 2000758571940253838
+    second: Boss 1 fight sprite (1)_605
+  - first:
+      213: 4996209979121553985
+    second: Boss 1 fight sprite (1)_606
+  - first:
+      213: 3284133881610307690
+    second: Boss 1 fight sprite (1)_607
+  - first:
+      213: -5983347557027007628
+    second: Boss 1 fight sprite (1)_608
+  - first:
+      213: 1786367487454423786
+    second: Boss 1 fight sprite (1)_609
+  - first:
+      213: -8393271759248349252
+    second: Boss 1 fight sprite (1)_610
+  - first:
+      213: -2149923367049020052
+    second: Boss 1 fight sprite (1)_611
+  - first:
+      213: -1422117991147368093
+    second: Boss 1 fight sprite (1)_612
+  - first:
+      213: 4656840142786388888
+    second: Boss 1 fight sprite (1)_613
+  - first:
+      213: 1588375627661735489
+    second: Boss 1 fight sprite (1)_614
+  - first:
+      213: 1005894195557341082
+    second: Boss 1 fight sprite (1)_615
+  - first:
+      213: -8260293505016347260
+    second: Boss 1 fight sprite (1)_616
+  - first:
+      213: -6852471408626434896
+    second: Boss 1 fight sprite (1)_617
+  - first:
+      213: 8296157285289354840
+    second: Boss 1 fight sprite (1)_618
+  - first:
+      213: 1847037298046997327
+    second: Boss 1 fight sprite (1)_619
+  - first:
+      213: 4309668238409984896
+    second: Boss 1 fight sprite (1)_620
+  - first:
+      213: 9147044065571276683
+    second: Boss 1 fight sprite (1)_621
+  - first:
+      213: -3073171944306068836
+    second: Boss 1 fight sprite (1)_622
+  - first:
+      213: -8136944258312356914
+    second: Boss 1 fight sprite (1)_623
+  - first:
+      213: -7721003843954974202
+    second: Boss 1 fight sprite (1)_624
+  - first:
+      213: 8923293437187782195
+    second: Boss 1 fight sprite (1)_625
+  - first:
+      213: -8317418741622306885
+    second: Boss 1 fight sprite (1)_626
+  - first:
+      213: -6160312746439511653
+    second: Boss 1 fight sprite (1)_627
+  - first:
+      213: -8387908311728666261
+    second: Boss 1 fight sprite (1)_628
+  - first:
+      213: -4091951307683979444
+    second: Boss 1 fight sprite (1)_629
+  - first:
+      213: 1247544199888527804
+    second: Boss 1 fight sprite (1)_630
+  - first:
+      213: -9040587786898260245
+    second: Boss 1 fight sprite (1)_631
+  - first:
+      213: -7416526321770930482
+    second: Boss 1 fight sprite (1)_632
+  - first:
+      213: -5434520517551655676
+    second: Boss 1 fight sprite (1)_633
+  - first:
+      213: 7535017555616632543
+    second: Boss 1 fight sprite (1)_634
+  - first:
+      213: 2610663650334262562
+    second: Boss 1 fight sprite (1)_635
+  - first:
+      213: 5199698724055743072
+    second: Boss 1 fight sprite (1)_636
+  - first:
+      213: -1655358779453814487
+    second: Boss 1 fight sprite (1)_637
+  - first:
+      213: -9173512789288922567
+    second: Boss 1 fight sprite (1)_638
+  - first:
+      213: -7086876877811942511
+    second: Boss 1 fight sprite (1)_639
+  - first:
+      213: -7580613177442979570
+    second: Boss 1 fight sprite (1)_640
+  - first:
+      213: -2949342499703510792
+    second: Boss 1 fight sprite (1)_641
+  - first:
+      213: 5942590336752453894
+    second: Boss 1 fight sprite (1)_642
+  - first:
+      213: -3880133188465098648
+    second: Boss 1 fight sprite (1)_643
+  - first:
+      213: 3541038163895039136
+    second: Boss 1 fight sprite (1)_644
+  - first:
+      213: -1722739057453421620
+    second: Boss 1 fight sprite (1)_645
+  - first:
+      213: -4591305039474126062
+    second: Boss 1 fight sprite (1)_646
+  - first:
+      213: -2777238085741945754
+    second: Boss 1 fight sprite (1)_647
+  - first:
+      213: 8948593812266896979
+    second: Boss 1 fight sprite (1)_648
+  - first:
+      213: -4826902567301605695
+    second: Boss 1 fight sprite (1)_649
+  - first:
+      213: 6497995957613394114
+    second: Boss 1 fight sprite (1)_650
+  - first:
+      213: 6621689496894334388
+    second: Boss 1 fight sprite (1)_651
+  - first:
+      213: -7663284575988297833
+    second: Boss 1 fight sprite (1)_652
+  - first:
+      213: -489388753693987728
+    second: Boss 1 fight sprite (1)_653
+  - first:
+      213: -5361773740561413253
+    second: Boss 1 fight sprite (1)_654
+  - first:
+      213: 4256780477690688716
+    second: Boss 1 fight sprite (1)_655
+  - first:
+      213: -1278926761481320317
+    second: Boss 1 fight sprite (1)_656
+  - first:
+      213: 8361744234148883541
+    second: Boss 1 fight sprite (1)_657
+  - first:
+      213: -4805892620115505304
+    second: Boss 1 fight sprite (1)_658
+  - first:
+      213: 2367408483347080850
+    second: Boss 1 fight sprite (1)_659
+  - first:
+      213: -4794397341038129917
+    second: Boss 1 fight sprite (1)_660
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss 1 fight sprite (1)_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 986
+        width: 355
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fa16c0976626120800000000000000
+      internalID: 2405597821054070578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 fight sprite (1)_1
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 984
+        width: 363
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff217f903668b8d0800000000000000
+      internalID: -2830400006782898182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 fight sprite (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 975
+        width: 356
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e0cd5d011f28a0800000000000000
+      internalID: -6327820202327087002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 fight sprite (1)_3
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 971
+        width: 361
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd88ef7d002b120800000000000000
+      internalID: 2428004076794469530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 fight sprite (1)_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 203
+        width: 352
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7af8346ce1cac2a0800000000000000
+      internalID: -6716342673231775107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 fight sprite (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 166
+        width: 359
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991c285e49664360800000000000000
+      internalID: 7153520843332262302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 fight sprite (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 158
+        width: 357
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1af83de4c3ab20800000000000000
+      internalID: 3144573487976946257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 fight sprite (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 133
+        width: 360
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d02ce47f1b05d50800000000000000
+      internalID: 6724069919400529207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

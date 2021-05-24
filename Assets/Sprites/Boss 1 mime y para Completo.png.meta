@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 88c00786efc1e7b499603c2ed71beb2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 219700044977207930
+    second: Boss 1 mime y para Completo_0
+  - first:
+      213: 6784736324206686970
+    second: Boss 1 mime y para Completo_1
+  - first:
+      213: -7559714849792002264
+    second: Boss 1 mime y para Completo_2
+  - first:
+      213: 962613059325609768
+    second: Boss 1 mime y para Completo_3
+  - first:
+      213: 5602688180430937818
+    second: Boss 1 mime y para Completo_4
+  - first:
+      213: 2028260725765087044
+    second: Boss 1 mime y para Completo_5
+  - first:
+      213: 751613990853869837
+    second: Boss 1 mime y para Completo_6
+  - first:
+      213: -9014374698349949149
+    second: Boss 1 mime y para Completo_7
+  - first:
+      213: 1754456866353417422
+    second: Boss 1 mime y para Completo_8
+  - first:
+      213: 5090492407039688099
+    second: Boss 1 mime y para Completo_9
+  - first:
+      213: -9123307950289567365
+    second: Boss 1 mime y para Completo_10
+  - first:
+      213: 216476011760763498
+    second: Boss 1 mime y para Completo_11
+  - first:
+      213: 3410298811511812092
+    second: Boss 1 mime y para Completo_12
+  - first:
+      213: 139786853513745163
+    second: Boss 1 mime y para Completo_13
+  - first:
+      213: -5124532081910673920
+    second: Boss 1 mime y para Completo_14
+  - first:
+      213: 8456839747882238333
+    second: Boss 1 mime y para Completo_15
+  - first:
+      213: -4257141821511695116
+    second: Boss 1 mime y para Completo_16
+  - first:
+      213: -1089725408980983742
+    second: Boss 1 mime y para Completo_17
+  - first:
+      213: 7264616825463264828
+    second: Boss 1 mime y para Completo_18
+  - first:
+      213: 2078581578049556102
+    second: Boss 1 mime y para Completo_19
+  - first:
+      213: 3790652037433849486
+    second: Boss 1 mime y para Completo_20
+  - first:
+      213: 7909813561036109011
+    second: Boss 1 mime y para Completo_21
+  - first:
+      213: -2787627985213760801
+    second: Boss 1 mime y para Completo_22
+  - first:
+      213: 4059519096729601091
+    second: Boss 1 mime y para Completo_23
+  - first:
+      213: -7190627416501736077
+    second: Boss 1 mime y para Completo_24
+  - first:
+      213: -7595357932952056110
+    second: Boss 1 mime y para Completo_25
+  - first:
+      213: 8519660022524025148
+    second: Boss 1 mime y para Completo_26
+  - first:
+      213: 7057520453568100386
+    second: Boss 1 mime y para Completo_27
+  - first:
+      213: 77917096876203648
+    second: Boss 1 mime y para Completo_28
+  - first:
+      213: 515198065250997414
+    second: Boss 1 mime y para Completo_29
+  - first:
+      213: -8866557761881049574
+    second: Boss 1 mime y para Completo_30
+  - first:
+      213: -5094692398020449607
+    second: Boss 1 mime y para Completo_31
+  - first:
+      213: 4567952563737134532
+    second: Boss 1 mime y para Completo_32
+  - first:
+      213: -3810982926318373186
+    second: Boss 1 mime y para Completo_33
+  - first:
+      213: 4703458020805014932
+    second: Boss 1 mime y para Completo_34
+  - first:
+      213: 7227023630002032356
+    second: Boss 1 mime y para Completo_35
+  - first:
+      213: -9144194925977591196
+    second: Boss 1 mime y para Completo_0
+  - first:
+      213: -7305409306137771165
+    second: Boss 1 mime y para Completo_1
+  - first:
+      213: -7740408400631131544
+    second: Boss 1 mime y para Completo_2
+  - first:
+      213: 8897400587467639260
+    second: Boss 1 mime y para Completo_3
+  - first:
+      213: -805276466299041004
+    second: Boss 1 mime y para Completo_4
+  - first:
+      213: -6308162437948862432
+    second: Boss 1 mime y para Completo_5
+  - first:
+      213: 3772742227429816877
+    second: Boss 1 mime y para Completo_6
+  - first:
+      213: -1764085392932662102
+    second: Boss 1 mime y para Completo_7
+  - first:
+      213: 4966750803223549771
+    second: Boss 1 mime y para Completo_8
+  - first:
+      213: -5039372108335150220
+    second: Boss 1 mime y para Completo_9
+  - first:
+      213: 2704084932601992326
+    second: Boss 1 mime y para Completo_10
+  - first:
+      213: -3422094442440694852
+    second: Boss 1 mime y para Completo_11
+  - first:
+      213: 1765321070194964371
+    second: Boss 1 mime y para Completo_12
+  - first:
+      213: 4827535777192031260
+    second: Boss 1 mime y para Completo_13
+  - first:
+      213: 8563749386359752641
+    second: Boss 1 mime y para Completo_14
+  - first:
+      213: -3254692492273236222
+    second: Boss 1 mime y para Completo_15
+  - first:
+      213: -3420781215282290923
+    second: Boss 1 mime y para Completo_16
+  - first:
+      213: 7945079135786773459
+    second: Boss 1 mime y para Completo_17
+  - first:
+      213: -246263052808536121
+    second: Boss 1 mime y para Completo_18
+  - first:
+      213: 1821986550113945552
+    second: Boss 1 mime y para Completo_19
+  - first:
+      213: 367754951801629649
+    second: Boss 1 mime y para Completo_20
+  - first:
+      213: -8712633527542047409
+    second: Boss 1 mime y para Completo_21
+  - first:
+      213: -4922182279439049827
+    second: Boss 1 mime y para Completo_22
+  - first:
+      213: -5251516991532357715
+    second: Boss 1 mime y para Completo_23
+  - first:
+      213: 7467817520340870663
+    second: Boss 1 mime y para Completo_24
+  - first:
+      213: -8777950592634781159
+    second: Boss 1 mime y para Completo_25
+  - first:
+      213: -452705338724405587
+    second: Boss 1 mime y para Completo_26
+  - first:
+      213: -5946898178506117559
+    second: Boss 1 mime y para Completo_27
+  - first:
+      213: 6946258812884265103
+    second: Boss 1 mime y para Completo_28
+  - first:
+      213: 307111756913859275
+    second: Boss 1 mime y para Completo_29
+  - first:
+      213: -1652991442468395159
+    second: Boss 1 mime y para Completo_30
+  - first:
+      213: -7932967816797729120
+    second: Boss 1 mime y para Completo_31
+  - first:
+      213: -1604934811245870946
+    second: Boss 1 mime y para Completo_32
+  - first:
+      213: -442570459555911224
+    second: Boss 1 mime y para Completo_33
+  - first:
+      213: -8416017507481517255
+    second: Boss 1 mime y para Completo_34
+  - first:
+      213: 5854124414357609094
+    second: Boss 1 mime y para Completo_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1417
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622d20b92b491180800000000000000
+      internalID: -9144194925977591196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1413
+        width: 299
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36343d811f8fd9a90800000000000000
+      internalID: -7305409306137771165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1412
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8629eefe19b849490800000000000000
+      internalID: -7740408400631131544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_3
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1384
+        width: 301
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd94c50a1bae97b70800000000000000
+      internalID: 8897400587467639260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_4
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1353
+        width: 301
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b8348025513d4f0800000000000000
+      internalID: -805276466299041004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_5
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1328
+        width: 300
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020989c4fa7e478a0800000000000000
+      internalID: -6308162437948862432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_6
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1305
+        width: 301
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2af11721197b5430800000000000000
+      internalID: 3772742227429816877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_7
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1295
+        width: 301
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41bc08ea5b487e0800000000000000
+      internalID: -1764085392932662102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_8
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 1298
+        width: 301
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4796026a817de440800000000000000
+      internalID: 4966750803223549771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_9
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1292
+        width: 301
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b0ca764cd801ab0800000000000000
+      internalID: -5039372108335150220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_10
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1327
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845a3a5be6d68520800000000000000
+      internalID: 2704084932601992326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 878
+        width: 301
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3eb725c374280d0800000000000000
+      internalID: -3422094442440694852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 877
+        width: 301
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397bb77092eaf7810800000000000000
+      internalID: 1765321070194964371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_13
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1280
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c143504463adef240800000000000000
+      internalID: 4827535777192031260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_14
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 860
+        width: 354
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c74177b1bc88d670800000000000000
+      internalID: 8563749386359752641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_15
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 863
+        width: 360
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2074ce02c6205d2d0800000000000000
+      internalID: -3254692492273236222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_16
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 876
+        width: 301
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f15c8db91f680d0800000000000000
+      internalID: -3420781215282290923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_17
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 872
+        width: 333
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db20f01167924e60800000000000000
+      internalID: 7945079135786773459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_18
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 866
+        width: 361
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf3b08ee09159cf0800000000000000
+      internalID: -246263052808536121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_19
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 860
+        width: 360
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7c4113d1ff84910800000000000000
+      internalID: 1821986550113945552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 436
+        width: 361
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbe6822e278a1500800000000000000
+      internalID: 367754951801629649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 435
+        width: 380
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d92bcd7f1861780800000000000000
+      internalID: -8712633527542047409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 408
+        width: 361
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1052bb45e0bbb0800000000000000
+      internalID: -4922182279439049827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_23
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 403
+        width: 360
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da729c3be1dde17b0800000000000000
+      internalID: -5251516991532357715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_24
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 406
+        width: 360
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7062b53f77403a760800000000000000
+      internalID: 7467817520340870663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_25
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 420
+        width: 361
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912031e81747e2680800000000000000
+      internalID: -8777950592634781159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_26
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 433
+        width: 360
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daea86994eaa7b9f0800000000000000
+      internalID: -452705338724405587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_27
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 452
+        width: 360
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea9ba5d9f587da0800000000000000
+      internalID: -5946898178506117559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 360
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88a4e36691166060800000000000000
+      internalID: 6946258812884265103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_29
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 118
+        width: 360
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca52390484134400800000000000000
+      internalID: 307111756913859275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_30
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 10
+        width: 361
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96729ee7a056f09e0800000000000000
+      internalID: -1652991442468395159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 26
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae4a212dcf68e190800000000000000
+      internalID: -7932967816797729120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_32
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 30
+        width: 10
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e900800ea402ab9e0800000000000000
+      internalID: -1604934811245870946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_33
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 30
+        width: 9
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a61a038cabd9f0800000000000000
+      internalID: -442570459555911224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_34
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 25
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933881bbaac443b80800000000000000
+      internalID: -8416017507481517255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 mime y para Completo_35
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 37
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a1abc63270e3150800000000000000
+      internalID: 5854124414357609094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
