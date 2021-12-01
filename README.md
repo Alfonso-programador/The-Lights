@@ -1,2 +1,2 @@
-# Triaungule
- 
+# The-Lights (En Desarrollo)
+The Lights es un juego de plataformas de acción 2D donde deberás ayudar a un dios a encontrar sus partes para recuperar su poder y derrotar por fin  el reinado de la oscuridad a cambio promete darte algo que has anhelado Luz en tu vida. Únete a la aventura y viaja por 4 mundos, donde deberás luchar contra diferentes enemigos y jefes. En serio, no sabes lo que te espera. ¿Eres lo suficientemente bueno para lograr tu objetivo?
